@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "notas",
-    "slug": "notas",
+    "name": "Gerenciador de Senhas",
+    "slug": "gerenciador_de_senhas",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/adaptive-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.felipekazuto.notas"
+      "package": "com.felipekazuto.gerenciador_de_senhas"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/adaptive-icon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "314eb418-5b24-40aa-9ea9-b566363a8f0f"
+        "projectId": "6142a157-630b-4900-bbc5-246a5c238c66"
       }
     }
   }
